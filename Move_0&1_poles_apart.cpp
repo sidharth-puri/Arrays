@@ -13,7 +13,6 @@ int main() {
             j++;
         }
     }
-
     for(i=n-1;i>=0;i--) {
         if(s[i]=='1') {
             swap(s[i],s[k]);
